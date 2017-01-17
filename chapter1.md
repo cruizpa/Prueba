@@ -42,6 +42,9 @@ This is [an example][psicamb] reference-style link.
 [psicamb]: http://www.psicamb.org/  "Psicologia Ambiental"
 
 An image: ![Gato](/assets/image.jpg) ![](/assets/índice.jpg)
+
+As Kanye West said: 
+> We're living the future so > the present is our past. 
  
  
  
