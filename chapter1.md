@@ -33,12 +33,15 @@ _You **can** combine them_
  * Item 3a 
  * Item 3b 
  
- This is [an example](http://example.com/ "Title") inline link with a title. 
+This is [an example](http://example.com/ "Title") inline link with a title. 
  
- [This link](http://example.net/) has no title attribute. 
+[This link](http://example.net/) has no title attribute. 
  
- This is [an example][psicamb] reference-style link. 
+This is [an example][psicamb] reference-style link. 
  
- [psicamb]: http://www.psicamb.org/  "Psicologia Ambiental" 
+[psicamb]: http://www.psicamb.org/  "Psicologia Ambiental"
+
+An image: ![Gato](/assets/image.jpg) ![](/assets/índice.jpg)
+ 
  
  
