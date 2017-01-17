@@ -70,6 +70,19 @@ Use `codigo`para resaltar
 
 [^2]: autores to include in footnote. 
 
+
+Three or more
+...
  
+--- 
+Hyphens
  
+*** 
+Asterisks 
+
+Esto es una fórmula: $$x=\frac{1+y}{1+2z^2}$$ 
+ 
+**dd**
+
+__dd__
  
