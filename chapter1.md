@@ -37,8 +37,8 @@ _You **can** combine them_
  
  [This link](http://example.net/) has no title attribute. 
  
- This is [an example][id] reference-style link. 
+ This is [an example][psicamb] reference-style link. 
  
- [id]: http://example.com/  "Optional Title Here" 
+ [psicamb]: http://www.psicamb.org/  "Psicologia Ambiental" 
  
  
