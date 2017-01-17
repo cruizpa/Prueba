@@ -2,8 +2,8 @@
 
 GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
 
-# This is an h1 tag 
-## This is an h2 tag 
+# Título 1 
+## Título 2 
 ###### This is an h6 tag 
 
 Hola
@@ -45,6 +45,13 @@ An image: ![Gato](/assets/image.jpg) ![](/assets/índice.jpg)
 
 As Kanye West said: 
 > We're living the future so > the present is our past. 
+
+| Edad|Peso|Altura| 
+| ---|---|---| 
+| 30 | 56| 157|
+| 29 | 50 |168| 
+| 42 | 60 |170|
+
  
  
  
