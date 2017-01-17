@@ -52,6 +52,8 @@ As Kanye West said:
 | 29 | 50 |168| 
 | 42 | 60 |170|
 
+Text prior to footnote reference.[^2] 
+
 
     This is a sample code block. 
     Continued here.
@@ -64,7 +66,7 @@ esto es un código
 
 Use `codigo`para resaltar
 
-Text prior to footnote reference.[^2] 
+
 
 [^2]: autores to include in footnote. 
 
