@@ -1,3 +1,3 @@
 gitbook.md
 
-glosario
+Glosario
